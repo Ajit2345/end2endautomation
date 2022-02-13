@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-02T02:10:34Z" name="Default suite" finished-at="2022-02-02T02:11:08Z" duration-ms="33523">
+    <groups>
+    </groups>
+    <test started-at="2022-02-02T02:10:34Z" name="Default test" finished-at="2022-02-02T02:11:08Z" duration-ms="33523">
+      <class name="tests1.CoursesPageTest">
+        <test-method is-config="true" signature="getBrowser()[pri:0, instance:tests1.CoursesPageTest@6c67e137]" started-at="2022-02-02T02:10:34Z" name="getBrowser" finished-at="2022-02-02T02:10:36Z" duration-ms="1587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBrowser -->
+        <test-method signature="getCourse()[pri:0, instance:tests1.CoursesPageTest@6c67e137]" started-at="2022-02-02T02:10:36Z" name="getCourse" finished-at="2022-02-02T02:11:07Z" duration-ms="31668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCourse -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:tests1.CoursesPageTest@6c67e137]" started-at="2022-02-02T02:11:07Z" name="browserClose" finished-at="2022-02-02T02:11:08Z" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- tests1.CoursesPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
